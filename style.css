@@ -1,0 +1,25 @@
+body {
+    font-size: 20px;
+    color: #2c2727;
+    margin: 0;
+    font-family: 'IBM Plex Serif', serif;
+    background-color: red;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 80px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 42px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.avatar {
+    border-radius: 50%;
+
+}
